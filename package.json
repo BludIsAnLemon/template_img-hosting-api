@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "src/api.js",
   "scripts": {
-    "test": "node src/api.js"
+    "test": "node src/api.js",
+    "start": "node src/api.js"
   },
   "keywords": [],
   "author": "",
