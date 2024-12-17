@@ -1,0 +1,20 @@
+{
+  "name": "image-hosting-api",
+  "version": "1.0.0",
+  "main": "src/api.js",
+  "scripts": {
+    "test": "node src/api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "mime-types": "^2.1.35",
+    "parse-data-uri": "^0.2.0",
+    "sharp": "^0.33.5"
+  }
+}
